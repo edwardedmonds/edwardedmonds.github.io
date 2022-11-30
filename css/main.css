@@ -1,0 +1,39 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  background-color: rgb(43,228,234);
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+}
+
+a {
+  background-color: rgb(0,0,0);
+  color:rgb(0,0,255);
+  text-decoration: none;
+  padding: .5em;
+}
+
+a:hover {
+  border-bottom-width: .1em;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(0,0,255);
+}
+
+a#pizza-crust {
+  background-color: rgb(255,24,76);
+}
+
+a#pizza-sauce {
+  background-color: rgb(255,87,125);
+
+}
+
+a#pizza-cheeses {
+  background-color: rgb(254,0,254);
+}
+
+img#ascii-pizza {
+
+}
