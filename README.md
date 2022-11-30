@@ -1,9 +1,9 @@
-Project: Recipes 
+# Project: Recipes 
 
-Description:
+## Description:
 A simple website containing links to a few recipes.
 
-Goals:
+## Goals:
 Demonstrate understanding of basic HTML concepts:
 - HTML document structure
 - Headings
@@ -11,4 +11,3 @@ Demonstrate understanding of basic HTML concepts:
 - Lists
 - Images
 - Links
-
