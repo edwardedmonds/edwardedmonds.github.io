@@ -5,6 +5,9 @@
 
 html {
   font-size: 20px;
+  border-top-width: 20px;
+  border-top-style: solid;
+  border-top-color: rgb(0, 0, 0);
 }
 
 body {
@@ -50,4 +53,8 @@ a:hover {
 #pizza-cheeses {
   background-color: rgb(255,255,255);
   white-space: nowrap;
+}
+
+.home {
+  color: rgb(255,255,255);
 }
