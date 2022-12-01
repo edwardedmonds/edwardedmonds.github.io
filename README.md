@@ -1,5 +1,5 @@
 # Recipes 
-A simple website containing links to a few recipes.
+A simple website on how to make pizza.
 
 ## What am I looking to accomplish?
 Demonstrate understanding of basic HTML concepts:
