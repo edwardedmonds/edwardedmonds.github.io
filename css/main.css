@@ -3,17 +3,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 
+* {
+  box-sizing: border-box;
+}
+
 html {
-  font-size: 20px;
-  border-top-width: 20px;
-  border-top-style: solid;
-  border-top-color: rgb(0, 0, 0);
+
 }
 
 body {
   background-color: rgb(43,228,234);
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
+  width: 100vw;
+  height: 100vh;
+  /*  
+  border-top: 20px solid rgb(0,0,0);
+  border-right: 20px solid rgb(255,132,0);
+  border-bottom: 20px solid rgb(61,37,123);
+  border-left: 20px solid rgb(253,237,0);
+  */
+  border: 20px solid rgb(0,0,0);
   padding: 0;
   margin: 0;
 }
@@ -64,10 +74,4 @@ a:hover {
 
 .home {
   color: rgb(255,255,255);
-}
-
-ul,
-ol {
-  display: inline-block;
-  text-align: left;
 }
