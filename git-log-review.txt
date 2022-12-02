@@ -1,0 +1,127 @@
+commit 5d694e4e20eefe3a64d626d923d03577b7e16ebc
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Thu Dec 1 13:29:28 2022 -0500
+
+    Update README
+
+commit 19ee93e0c2bf2c41e891be075b90cb38b9b63eb9
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Thu Dec 1 13:21:13 2022 -0500
+
+    Add humor
+
+commit d02b2fbf6d64cd86cd8eccb0919905d1f5f4c056
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Thu Dec 1 13:17:55 2022 -0500
+
+    Add instructions for pizza crust
+
+commit 5930a61b2b58b92f27f425d3b6424cb9754f49ec
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Thu Dec 1 12:45:37 2022 -0500
+
+    Add ingredients and instructions
+
+commit 85e4c2b89a3ea5722bb423f152b158645d9f9f60
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Thu Dec 1 12:39:19 2022 -0500
+
+    Add instructions to cook tomato sauce
+
+commit b28c9d58fc1ecf29355d56ec7f22f12dcdd78997
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Thu Dec 1 10:44:50 2022 -0500
+
+    Added navigation to recipe pages
+
+commit 14a52164741d22f4e1d9f43f059a6022a30b8ea8
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Thu Dec 1 08:37:58 2022 -0500
+
+    Add levitating pizza gifs
+
+commit 4bb152023b5cba307bd11019c2db9d441ec23be2
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 19:00:25 2022 -0500
+
+    Add home button
+
+commit a4973ce1c16d58e23b096fc9f88bb09549543fe2
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 18:59:23 2022 -0500
+
+    Add cheese image
+
+commit c90180954292ed78fdb70188672446961847775b
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 18:37:20 2022 -0500
+
+    Add home navigation
+
+commit b63be5ebbc9f99b86ea68ebd16c6faab8ba26048
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 18:31:14 2022 -0500
+
+    Fixed typo
+
+commit 84fa5839b0de5d59d23f32c765bb6dd5eade4e62
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 18:28:57 2022 -0500
+
+    Upload image files
+
+commit eb2a55d421a2516f993d659727250a44a8e2bfc2
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 18:27:28 2022 -0500
+
+    Add ingrediants list
+
+commit 48068fc31f653956e8ddb4d435081a7713c66d38
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 17:31:53 2022 -0500
+
+    Add Google Web Font
+
+commit e0e7ffdd256ae5b231ebe1d2f2bfeaad7a4db8d5
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 17:11:11 2022 -0500
+
+    Add sources to homepage links
+
+commit efb1310d55220b0a63cc9f106fd0687dd8505aab
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 16:43:28 2022 -0500
+
+    Styled the homepage
+
+commit 256be6e44e541d801ac16117bdc56d8652507df8
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 09:16:35 2022 -0500
+
+    Generate boilerplate HTML
+
+commit 020d4fa3f3ea6a17d3cfffaf6f41f88997c4aa8b
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 09:06:04 2022 -0500
+
+    Create index.html boilerplate
+
+commit 12f92824688e63203adcdb42467f88b488d34d62
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 08:50:36 2022 -0500
+
+    Rewrite and add notes to provide project context
+
+commit a5d59b8c80b208156d9601fc6dadc093af23b654
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 08:41:51 2022 -0500
+
+    Add markdown headings
+
+commit 829a69fe6b6834c17ae09e594b6e220a468bf668
+Author: Edward Edmonds <edward.edmonds@gmail.com>
+Date:   Wed Nov 30 08:36:33 2022 -0500
+
+    New file:   README.md
+    
+    Description of Recipes project and its goals.
