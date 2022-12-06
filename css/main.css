@@ -83,22 +83,22 @@ nav {
   padding: var(--default-margin) 0;
 }
 
+@media screen and (max-width: 320px) {
+  nav {
+    flex-direction: column;
+  }
+}
+
 #pizza-crust {
   background-color: rgb(253,237,0);
-  white-space: nowrap;
-  display: inline-block;
 }
 
 #pizza-sauce {
   background-color: rgb(255,43,43);
-  white-space: nowrap;
-  display: inline-block;
 }
 
 #pizza-cheeses {
   background-color: rgb(255,255,255);
-  white-space: nowrap;
-  display: inline-block;
 }
 
 .home {
