@@ -3,14 +3,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 
+:root { 
+  --default-margin: 20px;
+}
+
 * {
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 html {
   border: 20px solid rgb(0,0,0);
-  padding: 0;
-  margin: 0;
   width: 100%;
   height: 100%;
   content: '';
@@ -46,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 3em;
   display: inline-block;
-  margin-bottom: 0;
+  margin: var(--default-margin) 0;
 }
 
 a {
@@ -66,6 +70,7 @@ nav {
   display: flex;
   justify-content: center;
   gap: 10px;
+  padding: var(--default-margin) 0;
 }
 
 #pizza-crust {
