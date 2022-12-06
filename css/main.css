@@ -62,6 +62,12 @@ a:hover {
   border-bottom-color: rgb(0,0,255);
 }
 
+nav { 
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
 #pizza-crust {
   background-color: rgb(253,237,0);
   white-space: nowrap;
